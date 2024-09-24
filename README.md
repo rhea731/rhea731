@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhea731
 - 👀 I’m interested in analytical problems 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working on DSA, Python and ML
 
 
 <!---
